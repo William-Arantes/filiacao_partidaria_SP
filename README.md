@@ -1,10 +1,10 @@
 
 # Análise das filiações partidárias do município de São Paulo
 
- *Trabalho de Análise de Dados Públicos de apoio às Eleições 2020 
- *Curso: Análise e Desenvolvimento de Sistemas (FATEC)
- *Aluno: William Souza Arantes
- *Professor: Fernando Masanori
+ <p>*Trabalho de Análise de Dados Públicos de apoio às Eleições 2020 </p>
+ <p>*Curso: Análise e Desenvolvimento de Sistemas (FATEC)</p>
+ <p>*Aluno: William Souza Arantes</p>
+ <p>*Professor: Fernando Masanori</p>
 
 ## Sobre o projeto
 
